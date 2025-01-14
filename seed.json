@@ -1,6 +1,50 @@
 {
     "tasks": [
         {
+            "title": "Retweet SEED news",
+            "type": "followX"
+        },
+        {
+            "title": "Play TON Kombat",
+            "type": "tryapp"
+        },
+        {
+            "title": "Follow Top Grass Club",
+            "type": "followX"
+        },
+        {
+            "title": "Follow SOMO",
+            "type": "followX"
+        },
+        {
+            "title": "Join MeshChain Ai channel",
+            "type": "joinchannel"
+        },
+        {
+            "title": "Spin the Slut 10 Times",
+            "type": "tryapp"
+        },
+        {
+            "title": "Spin the Slut 10 Times",
+            "type": "tryapp"
+        },
+        {
+            "title": "Join Solana Airdrop in Spell Wallet",
+            "type": "tryapp"
+        },
+        {
+            "title": "Play Krypton: AI X Gaming",
+            "type": "tryapp"
+        },
+        {
+            "title": "Join Dropee - TGE Q1 2025",
+            "type": "tryapp"
+        },
+        {
+            "title": "Follow DePINed",
+            "type": "followX"
+        },
+        {
             "title": "#28 Crypto Slang Part 4",
             "content": "AMABUTDYOR"
         },
@@ -114,4 +158,3 @@
         }
     ]
 }
-

@@ -5,8 +5,24 @@
             "type": "tryapp"
         },
         {
+            "title": "Pnut - Musk Concept Leader on Binance!",
+            "type": "tryapp"
+        },
+        {
+            "title": "ACT - Top AI Coin, Future Ready!",
+            "type": "tryapp"
+        },
+        {
+            "title": "LUCE - Hot Religious IP Coin!",
+            "type": "tryapp"
+        },
+        {
+            "title": "Trading on ZShot",
+            "type": "tryapp"
+        },
+        {
             "title": "Daily Share",
-            "type": "check"
+            "type": "tryapp"
         },
         {
             "title": "Daily Airdrop Check-in",
@@ -25,7 +41,15 @@
             "type": "followX"
         },
         {
+            "title": "Follow ZAI X",
+            "type": "followX"
+        },
+        {
             "title": "Join Crypto News",
+            "type": "joinchannel"
+        },
+        {
+            "title": "Join Telegram Group",
             "type": "joinchannel"
         },
         {
@@ -73,12 +97,20 @@
             "type": "followX"
         },
         {
+            "title": "Like,RT & Comment",
+            "type": "followX"
+        },
+        {
             "title": "OKX Connect",
             "type": "check"
         },
         {
-            "title": "BingX Web3 Campaign",
-            "type": "check"
+            "title": "Follow Angrybot X",
+            "type": "followX"
+        },
+        {
+            "title": "Follow X",
+            "type": "followX"
         },
         {
             "title": "Airdrop Hub",

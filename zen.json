@@ -1,0 +1,88 @@
+{
+    "tasks": [
+        {
+            "title": "System Upgrade Compensation Coins",
+            "type": "tryapp"
+        },
+        {
+            "title": "Daily Share",
+            "type": "check"
+        },
+        {
+            "title": "Daily Airdrop Check-in",
+            "type": "check"
+        },
+        {
+            "title": "Bind Wallet Address",
+            "type": "check"
+        },
+        {
+            "title": "Join Telegram Channel",
+            "type": "joinchannel"
+        },
+        {
+            "title": "Subscibe YouTube",
+            "type": "followX"
+        },
+        {
+            "title": "Join Crypto News",
+            "type": "joinchannel"
+        },
+        {
+            "title": "Trump’s Comeback: Two Impeachments, One Revolution",
+            "type": "followX"
+        },
+        {
+            "title": "Musk vs Trump A $288.6 Billion Gamble",
+            "type": "followX"
+        },
+        {
+            "title": "Can AI Make Crypto Smarter?",
+            "type": "followX"
+        },
+        {
+            "title": "Understanding AI Agent Architecture",
+            "type": "followX"
+        },
+        {
+            "title": "Web3’s Key: Smart Contracts Unleashed",
+            "type": "followX"
+        },
+        {
+            "title": "Learn about cryptocurrencies in one minute",
+            "type": "followX"
+        },
+        {
+            "title": "The Richest Prisoner CZ",
+            "type": "followX"
+        },
+        {
+            "title": "Like,RT & Comment",
+            "type": "followX"
+        },
+        {
+            "title": "Like,RT & Comment",
+            "type": "followX"
+        },
+        {
+            "title": "Like,RT & Comment",
+            "type": "followX"
+        },
+        {
+            "title": "Like,RT & Comment",
+            "type": "followX"
+        },
+        {
+            "title": "OKX Connect",
+            "type": "check"
+        },
+        {
+            "title": "BingX Web3 Campaign",
+            "type": "check"
+        },
+        {
+            "title": "Airdrop Hub",
+            "type": "joinchannel"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "tasks": [
+        {
+            "title": "Play GemsWall",
+            "type": "followX"
+        },
+        {
+            "title": "Play GemsWall",
+            "type": "followX"
+        },
+        {
+            "title": "Play Picardia",
+            "type": "followX"
+        },
+        {
+            "title": "Play FreeDogs",
+            "type": "followX"
+        },
+        {
+            "title": "Play HoldCoin",
+            "type": "followX"
+        },
+        {
+            "title": "Play RiverLand",
+            "type": "followX"
+        },
+        {
+            "title": "Play Genki Miner",
+            "type": "followX"
+        },
+        {
+            "title": "Play Retrobit",
+            "type": "followX"
+        },
+        {
+            "title": "Join Stars Giveaway",
+            "type": "followX"
+        },
+        {
+            "title": "Play Fasqon",
+            "type": "followX"
+        },
+        {
+            "title": "Play BUMP",
+            "type": "followX"
+        },
+        {
+            "title": "Play Freedogs",
+            "type": "followX"
+        },
+        {
+            "title": "Join PokerFury",
+            "type": "followX"
+        },
+        {
+            "title": "Play DUCKS",
+            "type": "followX"
+        },
+        {
+            "title": "Join PitchTalk for AirDrop",
+            "type": "followX"
+        },
+        {
+            "title": "Join Angry Miner Chat",
+            "type": "followX"
+        },
+        {
+            "title": "Join Drops And Make Order",
+            "type": "followX"
+        },
+        {
+            "title": "Play TON Kombat",
+            "type": "followX"
+        },
+        {
+            "title": "Play Bool",
+            "type": "followX"
+        }
+    ]
+}
